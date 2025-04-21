@@ -11,7 +11,6 @@ A **blockchain** is like that notebook, but digital. It’s a secure, transparen
 
 Blockchain is often associated with cryptocurrencies like Bitcoin, but it’s used for much more, like tracking supply chains, securing medical records, or even voting systems.
 
----
 
 ## How Does Blockchain Work?
 
